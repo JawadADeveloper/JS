@@ -1,0 +1,9 @@
+#xlabel , #ylabel , #zlabel{
+    display: flex;
+    justify-content: center;
+}
+
+#rollbtn{
+    display: flex;
+    justify-content: center;
+}
